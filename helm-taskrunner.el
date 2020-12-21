@@ -1,11 +1,11 @@
-;;; helm-taskrunner.el --- Retrieve build system/taskrunner tasks via helm -*- lexical-binding: t; -*-
+;;; helm-taskrunner.el --- Retrieve build system/taskrunner tasks via helm
 
 ;; Copyright (C) 2019 Yavor Konstantinov
 
 ;; Author: Yavor Konstantinov <ykonstantinov1 AT gmail DOT com>
 ;; URL: https://github.com/emacs-taskrunner/helm-taskrunner
 ;; Version: 1.0
-;; Package-Requires: ((emacs "25.1") (projectile "2.0.0") (helm "v3.0"))
+;; Package-Requires: ((emacs "25.1") (projectile "2.0.0") (helm "3.0"))
 ;; Keywords: build-system taskrunner build task-runner tasks helm convenience
 
 ;; This file is not part of GNU Emacs.
